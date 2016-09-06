@@ -1,0 +1,11 @@
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\bin\Release\MNIST_DEMO.exe.config
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\bin\Release\MNIST_DEMO.exe
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\bin\Release\MNIST_DEMO.pdb
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\bin\Release\Machine_Learning.dll
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\bin\Release\Machine_Learning.pdb
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\obj\Release\MNIST_Visualizer.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\obj\Release\MNIST_DEMO.Form1.resources
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\obj\Release\MNIST_DEMO.Properties.Resources.resources
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\obj\Release\MNIST_Visualizer.csproj.GenerateResource.Cache
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\obj\Release\MNIST_DEMO.exe
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_Visualizer\obj\Release\MNIST_DEMO.pdb

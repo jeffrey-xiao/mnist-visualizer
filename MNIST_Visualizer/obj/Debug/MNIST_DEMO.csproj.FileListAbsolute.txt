@@ -1,0 +1,14 @@
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\bin\Debug\MNIST_DEMO.exe.config
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\bin\Debug\MNIST_DEMO.exe
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\bin\Debug\MNIST_DEMO.pdb
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\obj\Debug\MNIST_DEMO.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\obj\Debug\MNIST_DEMO.Properties.Resources.resources
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\obj\Debug\MNIST_DEMO.csproj.GenerateResource.Cache
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\obj\Debug\MNIST_DEMO.exe
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\obj\Debug\MNIST_DEMO.pdb
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\bin\Debug\Machine_Learning.dll
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\bin\Debug\Machine_Learning.pdb
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_DEMO\MNIST_DEMO\obj\Debug\MNIST_DEMO.Form1.resources
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_DEMO\bin\Debug\MNIST_DEMO.exe.config
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_DEMO\obj\Debug\MNIST_DEMO.exe
+C:\Users\Jeffrey\Documents\Visual Studio 2015\Projects\Neural_Network\MNIST_Visualizer\MNIST_DEMO\obj\Debug\MNIST_DEMO.pdb
